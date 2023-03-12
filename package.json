@@ -1,0 +1,27 @@
+{
+  "name": "tech-newsv2",
+  "version": "1.0.0",
+  "description": "Coming soon!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MNlegion/Tech-NewsV2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MNlegion/Tech-NewsV2/issues"
+  },
+  "homepage": "https://github.com/MNlegion/Tech-NewsV2#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^3.2.0",
+    "sequelize": "^6.29.2"
+  }
+}
